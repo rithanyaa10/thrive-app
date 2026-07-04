@@ -18,6 +18,8 @@ ARCHITECTURE:
 
 <img width="2000" height="2000" alt="arch jpg" src="https://github.com/user-attachments/assets/90a0380e-b100-48b7-9335-ed925c2e6401" />
 
+
+
 The GrowthOS architecture is a modular, AI-powered system that helps companies with everything from data integration and onboarding to intelligent analysis, multi-agent cooperation, strategic decision-making and performance tracking.
 
 

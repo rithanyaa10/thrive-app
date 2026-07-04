@@ -1,0 +1,6 @@
+{
+  "name": "GrowthOS",
+  "description": "An enterprise-grade GrowthOS platform featuring a modern landing page, secure workspace login, and account provisioning, designed with dark mode and cyber-neon accents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

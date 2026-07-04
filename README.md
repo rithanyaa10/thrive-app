@@ -13,3 +13,12 @@ PROBLEM STATEMENT:
 -> Many companies gather a lot of operational and financial data, but often have trouble turning it into useful insights. 
 
 -> GrowthOS tackles this issue by offering a sophisticated platform that evaluates company data and produces tailored suggestions to enhance operational effectiveness and business expansion.
+
+ARCHITECTURE:
+
+<img width="2000" height="2000" alt="arch jpg" src="https://github.com/user-attachments/assets/90a0380e-b100-48b7-9335-ed925c2e6401" />
+
+The GrowthOS architecture is a modular, AI-powered system that helps companies with everything from data integration and onboarding to intelligent analysis, multi-agent cooperation, strategic decision-making and performance tracking.
+
+
+
